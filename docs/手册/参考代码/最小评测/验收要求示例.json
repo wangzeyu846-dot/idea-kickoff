@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "model": "替换为实际模型名",
+  "parameters": {
+    "temperature": 0.2
+  },
+  "required_cases": [
+    {
+      "id": "需求清楚的普通场景",
+      "runs": 1
+    },
+    {
+      "id": "信息缺失时先澄清",
+      "runs": 1
+    }
+  ]
+}
